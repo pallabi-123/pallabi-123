@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with React,Angular & Node
 - 💬 Ask me about HTML/CSS/JS/ADOBEPS/ADOBEPREMIERE PRO
 - 📫 How to reach me: https://www.linkedin.com/in/pallabi-bose-14a46b218/
-- ⚡ Fun fact: I AM STILL LEARNING 
+- ⚡ Fun fact: I AM STILL LEARNING
 -->
