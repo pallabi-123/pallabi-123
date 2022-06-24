@@ -77,4 +77,5 @@ I am a Front End Web developer 🎯 from India with a passion for the latest sol
 <a href="https://stackoverflow.com/users/https://stackexchange.com/users/22729513/pallabi-dutta-bose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackexchange.com/users/22729513/pallabi-dutta-bose" height="30" width="40" /></a>
 </p>
 
-
+## Snake eating my contribution graph
+![snake gif](https://github.com/pallabi-123/pallabi-123/blob/output/github-contribution-grid-snake.gif)
