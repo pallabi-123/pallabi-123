@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pallabi Dutta Bose. </h1>
 <h2 align="center">I am a Front End Web developer 🎯 from India with a passion for the latest solutions and interactive design &development. . I'm passionate about Full-Stack Web Development.I'm passionate about Coding & learning new things. 📜  I’m currently exploring Full Stack Web Development and do some personal project on that</h2>
-<h3 align="center">There is no place like 127.0.0.1 </h3>
+<h2 align="center">There is no place like 127.0.0.1 </h2>
 <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallabi-123&show_icons=true&locale=en&layout=compact" alt="pallabi-123" /></p>
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/pallabi-](https://codepen.io/pallabi-)
 
-- 💬 Ask me about **HTML/CSS/JS/ADOBEPS/ADOBE-PREMIERE PRO**
+- 💬 Ask me about **HTML/CSS/JS/React JS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/pallabi-bose-14a46b218/**
 -    My Community       <https://www.freecodecamp.org/pallabi/>
