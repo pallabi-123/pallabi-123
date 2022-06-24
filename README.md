@@ -63,14 +63,17 @@ I am a Front End Web developer 🎯 from India with a passion for the latest sol
 
 <hr/>
 
+## Contribution graph
+![snake gif](https://github.com/pallabi-123/pallabi-123/blob/output/github-contribution-grid-snake.gif)
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallabi-123&show_icons=true&locale=en" alt="pallabi-123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallabi-123&" alt="pallabi-123" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallabi-123" alt="pallabi-123" /></a> </p>
 
-## Contribution graph
-![snake gif](https://github.com/pallabi-123/pallabi-123/blob/output/github-contribution-grid-snake.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
