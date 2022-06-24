@@ -17,6 +17,8 @@ I am a Front End Web developer 🎯 from India with a passion for the latest sol
   <li>- 💬 Ask me about **HTML/CSS/JS/React JS**</li>
   <li>- 📫 How to reach me **https://www.linkedin.com/in/pallabi-bose-14a46b218/**</li>
   <li>- My Community <https://www.freecodecamp.org/pallabi/></li>
+  
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallabi-123" alt="pallabi-123" /></a> </p>
  </ul>
  
  <hr/>
@@ -71,7 +73,7 @@ I am a Front End Web developer 🎯 from India with a passion for the latest sol
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallabi-123&" alt="pallabi-123" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallabi-123" alt="pallabi-123" /></a> </p>
+
 
 
 
