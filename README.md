@@ -27,8 +27,6 @@ I am a Front End Web developer 🎯 from India with a passion for the latest sol
  
  <div>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png" height="30">
-<img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" height="36">
-<img src="https://dev.java/assets/images/java-logo-vert-blk.png" height="36">
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="36">
 </div>
 
@@ -45,6 +43,7 @@ I am a Front End Web developer 🎯 from India with a passion for the latest sol
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="36">
 <img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" height="36">  
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/ajax.png" height="36">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" height="36">
 </div>
 
 #### Backend/Server
