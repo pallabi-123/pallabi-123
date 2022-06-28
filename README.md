@@ -1,6 +1,6 @@
 <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" height="240" width="90%"></a>
 <h2 align="center">There is no place like 127.0.0.1 </h2>
-<h3 align="center">Hi 👋, I'm Pallabi Dutta Bose. </h3>
+<h3 align="center">Hi 👋, I'm Pallabi Bose. </h3>
 
 ## BIO
 
