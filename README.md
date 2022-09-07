@@ -10,11 +10,10 @@ I am a Front End Web developer 🎯 from India with a passion for the latest sol
 
 <img width="45%" align="right" alt="GitHub Image" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
 <ul>
-  <li>-  Portfolio: Check out my Portfolio at https://pallabi-123.github.io/portfolio.github.io/</li>
+  <li>- 💼  Portfolio: Check out my Portfolio at https://pallabi-123.github.io/portfolio.github.io/</li>
   <li>- 🌱 I’m currently learning **Full-Stack-Web-Development**
-  <li>- 👯 I’m looking to collaborate on [Cakes N Care Dynamic-Website-Development](file:///E:/HTML/Mom's%20Magic.html/db/mom's%20magic.html)</li>
+  <li>- 👯 I’m looking to collaborate on Full Stack Web development Projects</li>
   <li>- 👨‍💻 All of my projects are available at [https://codepen.io/pallabi-](https://codepen.io/pallabi-)</li>
-  <li>- 💬 Ask me about **HTML/CSS/JS/React JS**</li>
   <li>- 📫 How to reach me **https://www.linkedin.com/in/pallabi-bose-14a46b218/**</li>
   
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallabi-123" alt="pallabi-123" /></a> </p>
