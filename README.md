@@ -10,7 +10,7 @@ I am a Front End Web developer 🎯 from India with a passion for the latest sol
 
 <img width="45%" align="right" alt="GitHub Image" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
 <ul>
-  <li>- 🔭 I’m currently working on [FreeCodeCamp-Responsive-Web-Design]([https://github.com/pallabi-123/FreeCodeCamp-Responsive-Web-Design]</li>
+  <li>-  Portfolio: Check out my Portfolio at https://pallabi-123.github.io/portfolio.github.io/</li>
   <li>- 🌱 I’m currently learning **Full-Stack-Web-Development**
   <li>- 👯 I’m looking to collaborate on [Cakes N Care Dynamic-Website-Development](file:///E:/HTML/Mom's%20Magic.html/db/mom's%20magic.html)</li>
   <li>- 👨‍💻 All of my projects are available at [https://codepen.io/pallabi-](https://codepen.io/pallabi-)</li>
